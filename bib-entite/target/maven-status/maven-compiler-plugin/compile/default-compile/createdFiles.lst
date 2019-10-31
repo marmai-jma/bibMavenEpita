@@ -1,0 +1,5 @@
+fr\epita\vacances\entite\Livre.class
+fr\epita\vacances\entite\Categorie.class
+fr\epita\vacances\entite\Auteur.class
+fr\epita\vacances\entite\Emprunteur.class
+fr\epita\vacances\entite\Exemplaire.class

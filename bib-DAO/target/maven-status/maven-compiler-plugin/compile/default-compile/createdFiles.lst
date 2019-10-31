@@ -1,0 +1,4 @@
+fr\epita\vacances\dao\AuteurDao.class
+fr\epita\vacances\dao\LivreDao.class
+fr\epita\vacances\dao\AuteurDaoImpl.class
+fr\epita\vacances\dao\LivreDaoImpl.class
